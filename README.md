@@ -24,6 +24,22 @@ I’m an analytical and business-savvy data professional with over 6 years of ex
 
 ---
 
+### 📁 Featured Projects
+
+🔹 [📊 Power BI Sales Dashboard](https://github.com/yourusername/PowerBI-Sales-Dashboard)  
+Interactive dashboard showcasing regional sales trends and KPIs, enabling leadership to track performance in real-time.
+
+🔹 [📈 Python Customer Segmentation](https://github.com/yourusername/Python-Customer-Segmentation)  
+K-means clustering and EDA to identify marketing opportunities for a retail dataset using Python.
+
+🔹 [🧮 Excel Financial Model](https://github.com/yourusername/Excel-Financial-Modeling)  
+Scenario-based forecasting model for a SaaS company using advanced Excel formulas and automation.
+
+🔹 [🧾 SQL Data Exploration Project](https://github.com/yourusername/SQL-Project-EDA)  
+ETL and KPI reporting using SQL Server, featuring window functions, CTEs, and performance optimization.
+
+---
+
 ### 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/loganathan-rajesh/)
