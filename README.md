@@ -26,6 +26,9 @@ I’m an analytical and business-savvy data professional with over 6 years of ex
 
 ### 📁 Featured Projects
 
+🔹 [📊 Power BI - Spotify Music Insights Dashboard:](https://github.com/RajeshLoganathan30/PowerBI---Spotify-Music-Insights.git)  
+A fully interactive Power BI dashboard exploring Spotify song popularity and mood segmentation using DAX, bookmarks, drillthrough, and dynamic UX techniques.
+
 🔹 [📊 Power BI - Sleep vs Caffeine: A Personal Data Story](https://github.com/RajeshLoganathan30/Personal---PowerBI-Caffeine-Consumption-.git)  
 A month-long self-tracking experiment analyzing how caffeine intake affected my sleep patterns — visualized through Power BI for insights and reflection.
 
