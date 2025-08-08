@@ -26,6 +26,9 @@ I’m an analytical and business-savvy data professional with over 6 years of ex
 
 ### 📁 Featured Projects
 
+🔹 [📊 Power BI - Sleep vs Caffeine: A Personal Data Story](https://github.com/RajeshLoganathan30/Personal---PowerBI-Caffeine-Consumption-.git)  
+A month-long self-tracking experiment analyzing how caffeine intake affected my sleep patterns — visualized through Power BI for insights and reflection.
+
 🔹 [📊 Power BI Sales Dashboard](https://github.com/RajeshLoganathan30/PowerBI-Dashboard.git)  
 Interactive dashboard showcasing regional sales trends and KPIs, enabling leadership to track performance in real-time.
 
@@ -43,7 +46,6 @@ ETL and KPI reporting using SQL Server, featuring window functions, CTEs, and pe
 ### 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/loganathan-rajesh/)
-- 🌐 [Portfolio Website](https://yourwebsite.com) *(if available)*
 - ✉️ Email: rajeshloganathan30@gmail.com
 
 ---
